@@ -264,3 +264,12 @@ def main():
  
 if __name__ == "__main__":
     main()
+
+    WEIGHTS = {
+    "urgency": 2.0,
+    "importance": 3.0,
+    "quickwin_bonus": 1.0,
+    "blocked_penalty": 5.0,
+}
+    
+AVAILABLE_MIN = 120
