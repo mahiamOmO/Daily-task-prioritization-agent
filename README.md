@@ -168,18 +168,6 @@ http://127.0.0.1:8000
 
 ## 🚀 Deployment
 
-### Deploy Frontend (Vercel)
-1. Push your code to GitHub
-2. Import project in Vercel
-3. Set root directory to `frontend/`
-4. Deploy
-
-### Deploy Backend (Railway/Render)
-1. Connect your GitHub repository
-2. Set root directory to `backend/`
-3. Add environment variables if needed
-4. Deploy
-
 **Deployed by:** Mahia Momo
 
 ---
