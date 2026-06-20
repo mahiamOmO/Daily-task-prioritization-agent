@@ -16,6 +16,8 @@ https://github.com/user-attachments/assets/d26d7a21-5462-49a9-b145-5b8bd117b537
 
 **Watch the gameplay demo:**
 
+[▶️ Watch on YouTube](https://youtu.be/tFPEJrp8OkA?si=iALiVOp_c5VYt8vo)
+
 ## ✨ Features
 
 - 🎨 Beautiful modern UI (dark theme, smooth animations)
