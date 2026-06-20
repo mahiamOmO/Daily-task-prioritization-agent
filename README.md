@@ -2,7 +2,6 @@
 
 TaskFlow is a modern, intelligent task management application with **AI-powered task prioritization**, built using **Next.js (Frontend)** and **FastAPI (Backend)**. This project demonstrates a clean full-stack architecture, modern UI, and scalable backend design — suitable for real-world production use.
 
----
 
 ## 🎥 YouTube Video
 
@@ -45,7 +44,7 @@ https://github.com/user-attachments/assets/d26d7a21-5462-49a9-b145-5b8bd117b537
 - Pydantic
 - CORS Middleware
 
----
+
 
 ## 📁 Project Structure
 
@@ -76,8 +75,6 @@ Daily-task-prioritization-agent/
 └── README.md
 ```
 
----
-
 ## ⚙️ Local Development Setup
 
 ### 1️⃣ Clone the repository
@@ -87,7 +84,6 @@ git clone https://github.com/mahiamOmO/Daily-task-prioritization-agent.git
 cd Daily-task-prioritization-agent
 ```
 
----
 
 ## 🔵 Frontend Setup (Next.js)
 
@@ -114,7 +110,6 @@ npm run dev
 http://localhost:3000
 ```
 
----
 
 ## 🟢 Backend Setup (FastAPI)
 
@@ -163,7 +158,6 @@ http://127.0.0.1:8000
 - Swagger UI → http://127.0.0.1:8000/docs
 - ReDoc → http://127.0.0.1:8000/redoc
 
----
 
 ## 🔗 Frontend ↔ Backend Integration
 
@@ -178,25 +172,25 @@ allow_origins=["*"]
 http://127.0.0.1:8000
 ```
 
----
+
 
 ## 🚀 Deployment
 
 **Deployed by:** Mahia Momo
 
----
+
 
 ## 📝 License
 
 MIT License
 
----
+
 
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
----
+
 
 ## 📧 Contact
 
