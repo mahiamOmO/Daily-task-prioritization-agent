@@ -4,6 +4,18 @@ TaskFlow is a modern, intelligent task management application with **AI-powered 
 
 ---
 
+## 🎥 YouTube Video
+
+**Watch the gameplay demo:**
+
+
+https://github.com/user-attachments/assets/d26d7a21-5462-49a9-b145-5b8bd117b537
+
+
+## 🎥 YouTube Video
+
+**Watch the gameplay demo:**
+
 ## ✨ Features
 
 - 🎨 Beautiful modern UI (dark theme, smooth animations)
